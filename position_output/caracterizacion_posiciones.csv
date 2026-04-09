@@ -1,0 +1,8 @@
+Posición,Grupo,Vars_positivas,Vars_negativas
+CB,Central,"9mMissed, 9mGoals, WingGoals","AS, TO, Time"
+GK,Portero,"Time, WingGoals, 9mGoals","6mCGoals, 2M, 9mMissed"
+LB,Lateral,"9mGoals, 9mMissed, WingGoals",
+LP,Pivote,"6mCGoals, 6mCMissed, WingGoals","9mMissed, 9mGoals, BTGoals"
+LW,Extremo,"FBGoals, BTGoals","WingGoals, WingMissed, 9mMissed"
+RB,Lateral,"9mMissed, 6mCGoals, WingGoals","9mGoals, BTGoals, Time"
+RW,Extremo,"6mCGoals, TO","WingGoals, WingMissed, 2M"
